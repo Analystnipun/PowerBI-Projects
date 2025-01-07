@@ -1,5 +1,4 @@
 # PowerBI-Projects
-# Power BI Sample Projects
 
 Welcome to the **Power BI Sample Projects** repository! This repository contains various Power BI sample projects that I have created to learn and sharpen my Power BI skills. The data used in these projects is sourced from publicly available datasets found on the internet. These projects demonstrate my ability to analyze and visualize data effectively using Power BI.
 
